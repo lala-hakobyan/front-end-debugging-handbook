@@ -6,7 +6,7 @@
 - **Release Date**: 29-01-2026
 - **What is Included:** Please refer to the **[Table of Contents](https://github.com/lala-hakobyan/front-end-debugging-handbook/blob/main/TABLE-OF-CONTENTS.md)** for a detailed list of topics included in this version.
 - **References**: 
-  - [Github reference](https://github.com/lala-hakobyan/front-end-debugging-handbook/tree/main/releases/Front-end-Debugging-Tools-v0.1.0-2026-by-Lala-Hakobyan.pdf)  
+  - [GitHub reference](https://github.com/lala-hakobyan/front-end-debugging-handbook/tree/main/releases/Front-end-Debugging-Tools-v0.1.0-2026-by-Lala-Hakobyan.pdf)  
   
 ## Release Version: 1.0.0
 
