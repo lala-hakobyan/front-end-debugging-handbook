@@ -61,8 +61,8 @@ While this handbook is intended to give you advanced knowledge on front-end debu
 - **Middle engineers** who want to upskill to senior will definitely benefit from deep dives, advanced debugging techniques and engineering best practices listed in this handbook.
 - **Senior/Staff engineers** may selectively choose areas that feel interesting to them and dive deeper into what is needed. Also, they may use this handbook as reference for team upskilling.
 
-My advice is: regardless of the level, read the whole book because I am sure that even the most familiar sections may give you new insights and debugging tips: I myself learned a lot while writing this handbook. 
-However, the topics are independent and necessary sections are referenced whenever needed, so if you are busy, you can start by checking the **Summary** section where it lists the problem each tool solves, and pick the tool that you need at the moment or are interested in diving deeper.
+My advice is: regardless of the level, read the whole book because I am sure that even the most familiar sections may give you new insights and debugging tips: I myself learned a lot while writing this handbook.   
+However, the topics are independent and necessary sections are referenced whenever needed, so if you are busy, you can start by checking the **Summary** section where it lists the problem each tool solves, and pick the tool that you need at the moment or are interested in diving deeper.  
 Alternatively, I advise to check the [Table of Contents](./TABLE-OF-CONTENTS.md), which is detailed enough to give you an overview of what's included in the handbook and help you to choose sections that you are interested in.
 
 Happy reading! I hope you will enjoy it.
