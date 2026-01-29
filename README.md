@@ -1,9 +1,9 @@
 # Front-end Debugging Tools Handbook
 A comprehensive guide to the tools for debugging modern, complex front-end applications. This handbook provides practical, real-world guidance on a complete suite of tools, from in-browser DevTools and framework extensions to the integrated debugger in your code editor.
 
-**Get the latest version of the handbook [here](/releases/Front-end-Debugging-Tools-v0.1.0-2026-by-Lala-Hakobyan.pdf).**
+**Get the latest version of the handbook [here](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf).**
 
-[<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-v0.1.0-2026-by-Lala-Hakobyan.pdf)
+[<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf)
 
 ## Introduction
 
