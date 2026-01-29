@@ -1,0 +1,171 @@
+# Front-end Debugging Tools: Full Table of Contents
+Below is the full table of contents of the handbook:
+
+- **Introduction**
+
+- **1. Chrome DevTools**
+    - **1.1 Console Panel**
+        - How to Open
+        - Useful Console Commands
+        - Useful Features
+        - Common Use Cases
+    - **1.2 Elements Panel**
+        - How to Open
+        - Common Use Cases
+    - **1.3 Toggle Device Toolbar**
+        - How to Activate
+        - Key Features
+        - How to Add a Custom Device
+        - Common Use Cases
+    - **1.4 Performance Panel**
+        - How to Open
+        - Setup Best Practices
+        - Terminology
+        - Key Features and Workflow
+        - Main Sections
+        - Custom Tracks
+        - Memory Debugging
+        - Useful Debugging Tips
+        - Common Use Cases
+    - **1.5 Lighthouse Panel**
+        - How to Analyze
+        - Key Features
+        - Common Use Cases
+    - **1.6 Network Panel**
+        - How to Open
+        - Filtering Requests
+        - Requests Table
+        - Inspecting Headers and Payloads
+        - Emulating Network Conditions & Throttling
+        - Downloading and Importing HAR files (HTTP Archive)
+        - Debugging CORS Errors
+        - Debugging Caching Headers
+        - Debugging Access Tokens
+        - Common HTTP Status Codes: Cheat Sheet
+        - Common Use Cases
+    - **1.7 Application Panel**
+        - How to Open
+        - Application Section
+        - Storage Section
+        - Background Services Section
+        - Back/forward cache
+        - Speculative Loading (Experimental)
+        - Push messaging / Notifications
+        - Common Use Cases
+    - **1.8 Sources Panel**
+        - How to Open
+        - Key Features
+        - Common Use Cases
+    - **1.9 Local Overrides**
+        - How to Open and Setup
+        - Key Features
+        - Managing and Filtering
+        - Common Use Cases
+    - **1.10 AI Innovations Feature (Experimental)**
+        - Requirements
+        - How to Enable in Settings
+        - How to Open
+        - AI Assistance
+        - Console Insights
+        - Auto Annotations
+        - Code Suggestions
+        - Data and Privacy
+        - Common Use Cases
+
+- **2. Browser Debugger**
+    - The `debugger;` Keyword
+    - Adding Breakpoints: Chrome Example
+    - Common Use Cases and Advantages
+
+- **3. IDE Debugging**
+    - **3.1 Debugging in WebStorm**
+        - Full-Stack Next.js Setup
+        - Angular SSR Setup
+        - Starting Your Debug Session
+        - Core Debugging Commands and Concepts
+        - Skip Files
+    - **3.2 Debugging in Cursor**
+        - Full-Stack Next.js Setup
+        - Angular SSR Setup
+        - Configuration Parameters Explained
+        - Starting Your Debug Session
+        - Debugging Workflow and Shortcuts
+    - **3.3 IDE Debugging: Important Tips**
+    - **3.4 IDE Debugging: Common Troubleshooting Steps**
+    - **3.5 IDE Debugging: Common Use Cases**
+
+- **4. Framework and Library Specific Debugging Tools**
+    - **4.1 React DevTools**
+        - Useful Tips Before Starting Debugging
+        - Components Panel
+        - Profiler Panel
+        - Suspense Panel
+        - React Custom Performance Tracks
+        - Useful Actions
+        - Common Use Cases
+    - **4.2 React Profiler API (Programmatic Profiling)**
+        - When It Fires
+        - How to Integrate
+        - Common Use Cases
+    - **4.3 Angular DevTools**
+        - Components Tab
+        - Profiler Tab
+        - Injector Tree
+        - Angular Custom Performance Track
+        - Debugging Signal Graph
+        - Debugging Hydration
+        - Debugging Incremental Hydration
+        - DevTools and Production Builds
+        - Common Use Cases
+    - **4.4 Redux DevTools**
+        - What is Redux
+        - Core Monitors
+        - Inspector Monitor
+        - Time Travel Debugging
+        - Dispatch a New Action
+        - Zustand Integration Example
+        - Common Use Cases
+
+- **5. PerformanceObserver Interface**
+    - Instance Methods
+    - `entryType` Values
+    - Example
+    - Browser Compatibility
+    - Common Use Cases
+
+- **6. Performance: now() Method (High-precision Performance Timing)**
+    - Key Characteristics
+    - Measuring Execution Time
+    - Simulating a Long Task (For Testing)
+    - Common Use Cases
+
+- **7. Front-end Monitoring**
+    - Key Features
+    - Best Practices for Effective Logging
+    - How to Integrate
+    - Useful Tips
+    - Common Use Cases
+
+- **8. Chrome DevTools MCP Server (Public Preview)**
+    - Terminology
+    - Install in Cursor IDE
+    - Key Features
+    - Configuration Options
+    - Workflow: AI-assisted E2E Test Case POC with Report Generation
+    - Workflow: Configuring AI Agents to Verify Their Own Work
+    - Security Considerations
+    - Common Use Cases
+
+- **9. Debugging Tools Summary**
+
+- **10. Technical Configuration**
+    - Proof of Concept (POC) Applications
+    - Browser and Extension Versions
+    - IDE Versions
+
+- **11. Documentation and Resources**
+    - Official Documentation and Standards
+    - Expert References (GDE and Core Teams)
+    - Plugins
+
+- **12. About the Author**

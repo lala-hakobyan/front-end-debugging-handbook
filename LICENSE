@@ -2,27 +2,23 @@ LICENSE
 
 Copyright © 2026 Lala Hakobyan. All rights reserved.
 
-YOU CAN
-- Read and use this handbook for learning and reference.
+You MAY
+- Download, read and use this handbook for learning and reference.
 - Print it for personal use or internal training.
-- Share the unmodified PDF internally within your company or educational institution.
+- Share the unmodified PDF internally, including within your company or educational institution.
 - Quote short excerpts with attribution and a link to the official source.
 
-YOU CAN’T (without prior written permission from the author)
-- Re-publish or re-upload this handbook publicly (website, platform, or another repository).
+You MAY NOT (without prior written permission from the author)
+- Re-publish or re-upload this handbook publicly (website, platform or another repository).
 - Sell the handbook or include it in paid products/courses.
 - Distribute modified versions of the handbook text or images.
 
-CODE SNIPPETS
-Original code snippets authored by Lala Hakobyan are licensed under the MIT License and may be used in personal and commercial projects. See LICENSE-CODE.
+Code Snippets
+Original code snippets authored by Lala Hakobyan are licensed under the [MIT License](See LICENSE-CODE) and may be used in personal and commercial projects.
 
-THIRD-PARTY CONTENT
-Any third-party code/assets are credited and remain under their original licenses.
+Third-party Content
+Any third-party code/assets that are credited should remain under their original licenses.
 
-Official source:
+Official Source
+For the latest version and new updates, please refer to the official repository:
 https://github.com/lala-hakobyan/front-end-debugging-handbook
-
-Feedback and requests:
-https://github.com/lala-hakobyan/front-end-debugging-handbook/issues
-
-
