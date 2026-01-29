@@ -7,7 +7,8 @@
 - **What is Included:** Please refer to the **[Table of Contents](https://github.com/lala-hakobyan/front-end-debugging-handbook/blob/main/TABLE-OF-CONTENTS.md)** for a detailed list of topics included in this version.
 - **References**: 
   - [GitHub reference](https://github.com/lala-hakobyan/front-end-debugging-handbook/blob/main/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf)  
-  
+- **Release Page:** [v0.1.0 (Free Community Preview) - Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook/releases/tag/v0.1.0) 
+ 
 ## Release Version: 1.0.0
 
 - **Description:** First official release of the handbook.
