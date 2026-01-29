@@ -5,7 +5,9 @@
 - **Description:** Initial release of the handbook for the community preview.
 - **Release Date**: 29-01-2026
 - **What is Included:** Please refer to the **[Table of Contents](./TABLE-OF-CONTENTS.md)** for a detailed list of topics included in this version.
-
+- **References**: 
+  - [Github reference](./releases/Front-end-Debugging-Tools-v0.1.0-2026-by-Lala-Hakobyan.pdf)  
+  
 ## Release Version: 1.0.0
 
 - **Description:** First official release of the handbook.
