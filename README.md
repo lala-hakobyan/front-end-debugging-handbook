@@ -79,11 +79,9 @@ While I enjoyed and committed myself to each role I took, front-end engineering 
 Throughout my career, I've specialized in technologies like **Angular**, **TypeScript** and **Microfrontend architecture**. Recently, I broadened my stack to include **React** and **Next.js**, leveraging **AI** to enhance engineering productivity. During my career, I continuously shared knowledge with peers, maintained technical documentation and contributed to establishing engineering best practices. This handbook is one of the independent initiatives I took on in 2025: a project that combines **my passion for innovation and knowledge sharing**. It is my way of sharing the practical debugging techniques and insights I've learned from solving complex problems in real-world projects, including modern techniques I adopted during the past year.
 
 Thank you for reading this handbook! I hope you enjoyed it and found it helpful in your everyday debugging flows.    
-If you found this handbook valuable, consider giving it a star on GitHub to help more people discover it:     
-<span><img src="https://cdn.simpleicons.org/github" height="14" class="link-icon" style="vertical-align:middle; margin-right:4px;"><span class="primary-link" style="vertical-align:middle">**[github.com/lala-hakobyan/front-end-debugging-handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook)**</span></span>
+If you found this handbook valuable, consider **giving it a star on GitHub** to help more people discover it.
 
-**I'd love to hear from you. For feedback, questions, updates or just to connect over meaningful tech conversations, you can find me on Linkedin:**
-- <span><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="14" style="vertical-align:middle; margin-right:4px;"><span style="vertical-align:middle" class="primary-link">**[linkedin.com/in/lala-hakobyan](https://www.linkedin.com/in/lala-hakobyan/)**</span></span>
+**I'd love to hear from you. For feedback, questions, updates or just to connect over meaningful tech conversations, you can find me on Linkedin: [linkedin.com/in/lala-hakobyan](https://www.linkedin.com/in/lala-hakobyan/).**
 
 > **Important Note:** This copy is the FREE version of the handbook for the developer community. If you see this handbook for sale on any platform, please inform me via LinkedIn so that I can prevent its illegal usage.
 
