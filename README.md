@@ -25,7 +25,7 @@ While I plan to release updates as tools evolve, technologies move very fast. Ne
 I hope you enjoy this handbook and find it genuinely useful in your everyday debugging flows.
 
 
-## What You Will Learn
+## Topics Covered
 
 This handbook provides both foundational concepts and advanced techniques for debugging front-end applications.
 Below are just some highlights of what it covers:
