@@ -1,7 +1,8 @@
 # Front-end Debugging Tools Handbook
-A comprehensive guide to the tools for debugging modern, complex front-end applications. This handbook provides practical, real-world guidance on a complete suite of tools, from in-browser DevTools and framework extensions to the integrated debugger in your code editor.
 
-**Get the latest version of the handbook [here](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf).**
+A comprehensive guide to **debugging tools** for modern, complex front-end applications. This handbook provides practical, real-world guidance on a complete suite of tools, from **Chrome DevTools** and **framework extensions** to **integrated IDE debuggers**.
+
+**Get the latest version (v0.1.0) of the handbook [here](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf).**
 
 [<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf)
 
@@ -23,47 +24,49 @@ While I plan to release updates as tools evolve, technologies move very fast. Ne
 
 I hope you enjoy this handbook and find it genuinely useful in your everyday debugging flows.
 
-## Table of Contents
 
-This handbook provides comprehensive fundamental and deep knowledge about debugging front-end applications.
+## What You Will Learn
+
+This handbook provides both foundational concepts and advanced techniques for debugging front-end applications.
 Below are just some highlights of what it covers:
 
 - **Chrome DevTools**
-    - Analyze performance of your application with Lighthouse, deep dive into Performance panel, profiling and underlying concepts.
-    - Debug CORS errors, caching headers and access tokens in Network panel.
-    - Debug bfcache, speculation rules and Web Workers through Application panel.
-    - Simulate Network throttling and add custom devices for effective cross-browser testing.
-    - Learn how to use AI innovations and get recommendations from Gemini right in the DevTools to help you with your debugging flow.
+    - **Analyze application performance** with Lighthouse and master the Performance panel, profiling and underlying rendering concepts. Learn how to read performance traces and quickly spot memory leaks.
+    - **Inspect network activity** to debug CORS errors, caching headers and access tokens.
+    - **Debug advanced browser features** including bfcache, speculation rules and Web Workers via the Application panel.
+    - **Simulate mobile environments** with network throttling and custom device profiles for effective cross-browser testing.
+    - **Leverage AI innovations** by getting Gemini recommendations directly inside DevTools to streamline your debugging flow.
 - **Browser Debugger**
-    - Learn how to use browser debugger to quickly debug your client applications.
+    - **Master the native browser debugger** to quickly isolate issues in client-side JavaScript without external tools.
 - **IDE Debugging**
-    - Set up Debugger for your Cursor and WebStorm IDEs for complex, multi-layer Next.js application and SSR Angular application.
-    - Learn troubleshooting steps to overcome unbound debugger breakpoints or port conflicts.
+    - **Configure integrated debuggers** in Cursor and WebStorm for complex, multi-layer Next.js and SSR Angular applications.
+    - **Troubleshoot debugger issues** to overcome common blockers like unbound breakpoints or port conflicts.
 - **Framework and Library Specific Debugging Tools**
-    - Deep dive into Angular DevTools, learn how to understand Profiler, debug signals and hydration.
-    - Deep dive into React DevTools, understand how to profile and identify unnecessary rerenders.
-    - Learn what is Redux and how to use Redux DevTools to debug state of your application not only in Redux but also in Zustand.
+    - **Deep dive into Angular DevTools:** Understand the Profiler and underlying concepts, debug signals and hydration issues.
+    - **Deep dive into React DevTools:** Profile components, understand core concepts and identify the root causes of unnecessary re-renders.
+    - **Master State Debugging:** Understand Redux fundamentals and use Redux DevTools to inspect state in both Redux and Zustand applications.
 - **PerformanceObserver Interface, `performance.now()` Method and Profiler API**
-    -  Learn how to use these specific APIs to measure performance of your components and application.
+    - **Programmatically measure performance** of your components and critical user journeys using specific browser APIs.
 - **Front-end Monitoring**
-    - Learn what is front-end monitoring, why it is important and a basic setup to start small.
+    - **Implement basic monitoring:** Understand why front-end monitoring matters, learn best practices and set up a lightweight strategy to start tracking production health.
 - **Chrome DevTools MCP Server (Public Preview)**
-    - Learn how to use newly released Chrome DevTools MCP server to create automatic E2E tests and assign your IDE to verify its own code in the browser.
-    - Understand its current state and security risks.
+    - **Automate debugging workflows** using the new Chrome DevTools MCP server. Create E2E tests with only natural language prompts and configure your AI assistant to verify its own code.
+    - **Evaluate the technology:** Understand its current capabilities, limitations and security considerations.
 
-All these topics and much more you can find in this handbook. For the full table of contents please refer to the <span class="primary-link">**[Table of Contents](./TABLE-OF-CONTENTS.md)**</span>.
+You can find all these topics and much more in this handbook. For the full table of contents please refer to the **[Table of Contents](./TABLE-OF-CONTENTS.md)**.
 
 
 ## How to Read
 
-While this handbook is intended to give you advanced knowledge on front-end debugging tools, it is designed in a way that different levels of engineers can benefit from it, from junior to staff.
-- **Junior engineers** can gain fundamental knowledge of a powerful toolkit for debugging front-end applications. And they may consider skipping some deep dives with the intention to get back to them later.
-- **Middle engineers** who want to upskill to senior will definitely benefit from deep dives, advanced debugging techniques and engineering best practices listed in this handbook.
-- **Senior/Staff engineers** may selectively choose areas that feel interesting to them and dive deeper into what is needed. Also, they may use this handbook as reference for team upskilling.
+While this handbook is intended to give you advanced knowledge of front-end debugging tools, it is designed so that engineers at different levels can benefit from it, from Junior to Staff.
 
-My advice is: regardless of the level, read the whole book because I am sure that even the most familiar sections may give you new insights and debugging tips: I myself learned a lot while writing this handbook.   
-However, the topics are independent and necessary sections are referenced whenever needed, so if you are busy, you can start by checking the **Summary** section where it lists the problem each tool solves, and pick the tool that you need at the moment or are interested in diving deeper.  
-Alternatively, I advise to check the [Table of Contents](./TABLE-OF-CONTENTS.md), which is detailed enough to give you an overview of what's included in the handbook and help you to choose sections that you are interested in.
+- **Junior Engineers** can gain fundamental knowledge of a powerful toolkit for debugging front-end applications. They may consider skipping some deep dives at first to return to them later.
+- **Mid-level Engineers** who want to upskill to Senior will benefit from the deep dives, advanced debugging techniques and engineering best practices listed in this handbook.
+- **Senior or Staff Engineers** may selectively choose the areas that feel most interesting to them and dive deeper into what is needed. They may also use this handbook as a reference for team upskilling.
+
+**My advice is:** regardless of your level, read the whole book. I am sure that even the most familiar sections may give you new insights and debugging tips. I myself learned a lot while writing this handbook.
+
+However, the topics are independent and necessary sections are referenced whenever needed. So if you are busy, you can start by checking the **Summary** section to find which tool solves your specific problem, and pick the tools that you need at the moment or are interested in diving deeper into. You can also check the **[Table of Contents](./TABLE-OF-CONTENTS.md)**, which is detailed enough to give you an overview of what is included in the handbook and help you choose the sections you are interested in.
 
 Happy reading! I hope you will enjoy it.
 
@@ -71,7 +74,7 @@ Happy reading! I hope you will enjoy it.
 ## About Me
 
 Hello! I'm Lala Hakobyan, a Senior Front-end Engineer with over 15 years of experience in the tech industry, with the last 9 years in front-end engineering.
-Throughout my career, I have held different roles: **Full-Stack Engineer**, **Project Manager**, **Front-end Engineer** and **Software Engineering Team Lead**.
+Throughout my career, I have held different roles: **Full-stack Engineer**, **Project Manager**, **Front-end Engineer** and **Software Engineering Team Lead**.
 The experience gained from this journey allows me to bridge the gap between engineering and product, ensuring technical decisions align with user needs.
 
 While I enjoyed and committed myself to each role I took, front-end engineering remains my true passion. I'm passionate about delivering seamless experiences to end users and building scalable, maintainable and high-quality applications, from architecture to implementation.
@@ -88,17 +91,17 @@ If you found this handbook valuable, consider **giving it a star on GitHub** to 
 
 ## Story
 
-I started writing this handbook in August 2025. Initially, I started it as a short guide to include in my knowledge base. Then, after looking into the first version, I realized it would be useful, but I could make it more helpful by adding my experience, explaining concepts, and actually making the debugging process easier. So it became a separate initiative.
+I started writing this handbook in August 2025. Initially, it began as a short guide to include in my personal knowledge base. However, after reviewing the first draft, I realized it would be useful, but I could make it significantly more helpful by adding my own experiences, explaining concepts and actually making the debugging process easier. So it became a separate initiative.
 
-I started maintaining it in a separate repository, where I also store resources for publishing: styles, screenshots from my POC projects, and typography rules.
+I maintain it in a separate repository, where I also store resources for publishing: styles, screenshots from my POC projects and typography rules.
 
 ![Front-end Debugging Handbook Source Repository](./assets/fe-debugging-handbook-source-repo.png)
 
-When I committed the initial version, I wanted to create a theme which would help my fellow engineers to soften the hard debugging process and make learning more enjoyable. So the orange color and cat mascot (mimicking my cat) came to my mind. I used AI to bring the cat mascot idea to life. Also, I included more screenshots where possible to make concepts more understandable and learning easier.
+When I committed the initial version, I wanted to create a theme that would help my fellow engineers make the challenging debugging process more approachable and learning more enjoyable. So the orange color and cat mascot (mimicking my own cat) came to mind. I used AI to bring the cat mascot idea to life. Also, I included more screenshots where possible to make concepts more understandable and learning easier.
 
 <img src="./assets/front-end-debugging-handbook-story-cat.jpg" alt="Front-end Debugging Handbook: Cat Mascot and my Cat" width="500">
 
-During the last few months, I continuously improved the handbook. I added a Chrome MCP section when it was released, Speculation Rules, Performance Observer API and some other modern features as well. But at some point, I realized that I can always add depth, more details, and even more sections. So I decided to stay pragmatic, code freeze on a list of features by the end of 2025, do a final review and release it for the community. I have some features in mind, and also suggestions by the community that will be included in the next versions of my handbook. You can find them in the [roadmap file](./ROADMAP.md).
+Over the last few months, I continuously improved the handbook. I added the Chrome DevTools MCP section when it was released, along with sections on the PerformanceObserver API, Speculative Loading and other modern features. But at some point, I realized that I could always add depth, more details and even more sections. So I decided to stay pragmatic, freeze the scope by the end of 2025, do a final review and release it to the community. I have some features in mind, and also suggestions from the community that I plan to include in future versions of my handbook. You can find them in the [roadmap file](./ROADMAP.md).
 
 I really hope you will enjoy it. I will be happy to hear your [feedback](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues) and consider it for future updates.
 
