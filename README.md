@@ -115,8 +115,7 @@ To learn more about the future release roadmap and updates, check the **[Project
 
 
 ## Feedback and Requests
-For suggestions, feedback or to request a topic, please use the Issues tab on GitHub:
-**[Issues page on GitHub](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues)**
+For suggestions, feedback or to request a topic, please use the **[Issues page on GitHub](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues)**.
 
 
 ## Official Sources
