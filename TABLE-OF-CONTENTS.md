@@ -1,4 +1,5 @@
-# Front-end Debugging Tools: Full Table of Contents
+# Table of Contents: Version 0.1.1 (Community Edition)
+
 Below is the full table of contents of the handbook:
 
 - **Introduction**
@@ -22,7 +23,7 @@ Below is the full table of contents of the handbook:
         - Setup Best Practices
         - Terminology
         - Key Features and Workflow
-        - Main Sections
+        - Primary Sections
         - Custom Tracks
         - Memory Debugging
         - Useful Debugging Tips
@@ -36,8 +37,8 @@ Below is the full table of contents of the handbook:
         - Filtering Requests
         - Requests Table
         - Inspecting Headers and Payloads
-        - Emulating Network Conditions & Throttling
-        - Downloading and Importing HAR files (HTTP Archive)
+        - Emulating Network Conditions and Throttling
+        - Downloading and Importing HAR (HTTP Archive) Files
         - Debugging CORS Errors
         - Debugging Caching Headers
         - Debugging Access Tokens
@@ -48,9 +49,9 @@ Below is the full table of contents of the handbook:
         - Application Section
         - Storage Section
         - Background Services Section
-        - Back/forward cache
+        - Back/Forward Cache
         - Speculative Loading (Experimental)
-        - Push messaging / Notifications
+        - Push Messaging and Notifications
         - Common Use Cases
     - **1.8 Sources Panel**
         - How to Open
@@ -64,7 +65,6 @@ Below is the full table of contents of the handbook:
     - **1.10 AI Innovations Feature (Experimental)**
         - Requirements
         - How to Enable in Settings
-        - How to Open
         - AI Assistance
         - Console Insights
         - Auto Annotations
@@ -79,19 +79,19 @@ Below is the full table of contents of the handbook:
 
 - **3. IDE Debugging**
     - **3.1 Debugging in WebStorm**
-        - Full-Stack Next.js Setup
+        - Full-stack Next.js Setup
         - Angular SSR Setup
         - Starting Your Debug Session
-        - Core Debugging Commands and Concepts
+        - Navigation Controls and State Inspection
         - Skip Files
     - **3.2 Debugging in Cursor**
-        - Full-Stack Next.js Setup
+        - Full-stack Next.js Setup
         - Angular SSR Setup
-        - Configuration Parameters Explained
+        - Configuration Parameters
         - Starting Your Debug Session
-        - Debugging Workflow and Shortcuts
+        - Navigation Controls and State Inspection
     - **3.3 IDE Debugging: Important Tips**
-    - **3.4 IDE Debugging: Common Troubleshooting Steps**
+    - **3.4 IDE Debugging: Troubleshooting Steps**
     - **3.5 IDE Debugging: Common Use Cases**
 
 - **4. Framework and Library Specific Debugging Tools**
@@ -110,9 +110,9 @@ Below is the full table of contents of the handbook:
     - **4.3 Angular DevTools**
         - Components Tab
         - Profiler Tab
-        - Injector Tree
+        - Injector Tree Tab
         - Angular Custom Performance Track
-        - Debugging Signal Graph
+        - Debugging Signals
         - Debugging Hydration
         - Debugging Incremental Hydration
         - DevTools and Production Builds
@@ -122,7 +122,7 @@ Below is the full table of contents of the handbook:
         - Core Monitors
         - Inspector Monitor
         - Time Travel Debugging
-        - Dispatch a New Action
+        - Dispatching a New Action
         - Zustand Integration Example
         - Common Use Cases
 
@@ -133,7 +133,7 @@ Below is the full table of contents of the handbook:
     - Browser Compatibility
     - Common Use Cases
 
-- **6. Performance: now() Method (High-precision Performance Timing)**
+- **6. Performance: now() Method (High-precision Timing)**
     - Key Characteristics
     - Measuring Execution Time
     - Simulating a Long Task (For Testing)
@@ -148,11 +148,11 @@ Below is the full table of contents of the handbook:
 
 - **8. Chrome DevTools MCP Server (Public Preview)**
     - Terminology
-    - Install in Cursor IDE
+    - Installing in Cursor IDE
     - Key Features
     - Configuration Options
-    - Workflow: AI-assisted E2E Test Case POC with Report Generation
-    - Workflow: Configuring AI Agents to Verify Their Own Work
+    - Cursor Workflow: AI-assisted E2E Test Case with Report Generation
+    - Cursor Workflow: Configuring AI Agents for Self-testing
     - Security Considerations
     - Common Use Cases
 
@@ -164,8 +164,8 @@ Below is the full table of contents of the handbook:
     - IDE Versions
 
 - **11. Documentation and Resources**
-    - Official Documentation and Standards
+    - Official Documentation and Best Practices
     - Expert References (GDE and Core Teams)
-    - Plugins
+    - Browser Extensions
 
 - **12. About the Author**

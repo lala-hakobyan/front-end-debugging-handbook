@@ -2,9 +2,9 @@
 
 A comprehensive guide to **debugging tools** for modern, complex front-end applications. This handbook provides practical, real-world guidance on a complete suite of tools, from **Chrome DevTools** and **framework extensions** to **integrated IDE debuggers**.
 
-**Get the latest version (v0.1.0) of the handbook [here](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf).**
+**Get the latest **Community Edition** (v0.1.1) of the handbook [here](/releases/Front-end-Debugging-Tools-Handbook-v0.1.1-community-2026-by-Lala-Hakobyan.pdf).**
 
-[<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.0-2026-by-Lala-Hakobyan.pdf)
+[<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.1-community-2026-by-Lala-Hakobyan.pdf)
 
 ## Introduction
 
@@ -77,12 +77,13 @@ Hello! I'm Lala Hakobyan, a Senior Front-end Engineer with over 15 years of expe
 Throughout my career, I have held different roles: **Full-stack Engineer**, **Project Manager**, **Front-end Engineer** and **Software Engineering Team Lead**.
 The experience gained from this journey allows me to bridge the gap between engineering and product, ensuring technical decisions align with user needs.
 
-While I enjoyed and committed myself to each role I took, front-end engineering remains my true passion. I'm passionate about delivering seamless experiences to end users and building scalable, maintainable and high-quality applications, from architecture to implementation.
+While I enjoyed and fully committed myself to every role, front-end engineering remains my true passion. I'm passionate about delivering seamless experiences to end users and building scalable, maintainable and high-quality applications, from architecture to implementation.
 
-Throughout my career, I've specialized in technologies like **Angular**, **TypeScript** and **Microfrontend architecture**. Recently, I broadened my stack to include **React** and **Next.js**, leveraging **AI** to enhance engineering productivity. During my career, I continuously shared knowledge with peers, maintained technical documentation and contributed to establishing engineering best practices. This handbook is one of the independent initiatives I took on in 2025: a project that combines **my passion for innovation and knowledge sharing**. It is my way of sharing the practical debugging techniques and insights I've learned from solving complex problems in real-world projects, including modern techniques I adopted during the past year.
+Throughout my career, I've specialized in technologies like **Angular**, **TypeScript** and **Micro-frontend architecture**. Recently, I broadened my stack to include **React** and **Next.js**, leveraging **AI** to enhance engineering productivity. During my career, I continuously shared knowledge with peers, maintained technical documentation and contributed to establishing engineering best practices. This handbook is one of the independent initiatives I took on in 2025: a project that combines **my passion for innovation and knowledge sharing**. It is my way of sharing the practical debugging techniques and insights I've learned from solving complex problems in real-world projects, including modern techniques I adopted during the past year.
 
 Thank you for reading this handbook! I hope you enjoyed it and found it helpful in your everyday debugging flows.    
-If you found this handbook valuable, consider **giving it a star on GitHub** to help more people discover it.
+If you found this handbook valuable, consider **starring the GitHub repository** or **sharing the project link** with your teammates to help more people discover it:
+
 
 **I'd love to hear from you. For feedback, questions, updates or just to connect over meaningful tech conversations, you can find me on Linkedin: [linkedin.com/in/lala-hakobyan](https://www.linkedin.com/in/lala-hakobyan/).**
 
@@ -111,7 +112,22 @@ To check all release notes, please refer to the **[Release Notes](./RELEASE-NOTE
 
 
 ## Roadmap
-To learn more about the future release roadmap and updates, check the **[Project Roadmap](./ROADMAP.md)** file.
+
+**Release Version: 1.0.0**
+- **Description:** Official release of the handbook **Main Edition**.
+- **Release Date:** Feb 18 - Feb 25, 2026
+- **What is Included:**
+    - Minor content refinements.
+    - Enhanced **Console Section** with text blocks to copy-paste and experiment.
+    - Added **Debugging in WebStorm > Save Configuration** section, explaining how to store configurations as physical files for better maintainability.
+    - Release of the **GitHub projects** used in the handbook to enhance the learning process.
+      These POC projects allow readers to apply concepts directly in a local environment, resulting in a more effective learning flow.
+    - Links to technical POC projects for each section.
+    - Page numbers included in the Table of Contents to ensure the handbook is efficient when printed.
+  
+The release will be followed by the announcement on my [LinkedIn page](https://www.linkedin.com/in/lala-hakobyan).
+
+To see the detailed release schedule and future updates, check the **[Project Roadmap](./ROADMAP.md)**.
 
 
 ## Feedback and Requests
@@ -120,7 +136,7 @@ For suggestions, feedback or to request a topic, please use the **[Issues page o
 
 ## Official Sources
 - [GitHub Repository](https://github.com/lala-hakobyan/front-end-debugging-handbook)
-- Leanpub - Coming Soon
+- Leanpub - Coming Soon (Feb 18 - Feb 25, 2026)
 
 
 ## License
