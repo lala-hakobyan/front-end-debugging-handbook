@@ -82,12 +82,11 @@ While I enjoyed and fully committed myself to every role, front-end engineering 
 Throughout my career, I've specialized in technologies like **Angular**, **TypeScript** and **Micro-frontend architecture**. Recently, I broadened my stack to include **React** and **Next.js**, leveraging **AI** to enhance engineering productivity. During my career, I continuously shared knowledge with peers, maintained technical documentation and contributed to establishing engineering best practices. This handbook is one of the independent initiatives I took on in 2025: a project that combines **my passion for innovation and knowledge sharing**. It is my way of sharing the practical debugging techniques and insights I've learned from solving complex problems in real-world projects, including modern techniques I adopted during the past year.
 
 Thank you for reading this handbook! I hope you enjoyed it and found it helpful in your everyday debugging flows.    
-If you found this handbook valuable, consider **starring the GitHub repository** or **sharing the project link** with your teammates to help more people discover it:
+If you found this handbook valuable, consider **starring the GitHub repository** or **sharing the project link** with your teammates to help more people discover it: **[github.com/lala-hakobyan/front-end-debugging-handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook)**
 
+**I'd love to hear from you. For feedback, questions, updates or just to connect over meaningful tech conversations, you can find me on Linkedin:** **[linkedin.com/in/lala-hakobyan](https://www.linkedin.com/in/lala-hakobyan)**
 
-**I'd love to hear from you. For feedback, questions, updates or just to connect over meaningful tech conversations, you can find me on Linkedin: [linkedin.com/in/lala-hakobyan](https://www.linkedin.com/in/lala-hakobyan/).**
-
-> **Important Note:** This copy is the FREE version of the handbook for the developer community. If you see this handbook for sale on any platform, please inform me via LinkedIn so that I can prevent its illegal usage.
+> **Important Note:** The Community Edition is the FREE version of the handbook for the developer community. If you see it for sale on any platform, please inform me via LinkedIn so that I can prevent its illegal usage.
 
 
 ## Story
@@ -125,7 +124,7 @@ To check all release notes, please refer to the **[Release Notes](./RELEASE-NOTE
     - Links to technical POC projects for each section.
     - Page numbers included in the Table of Contents to ensure the handbook is efficient when printed.
   
-The release will be followed by the announcement on my [LinkedIn page](https://www.linkedin.com/in/lala-hakobyan).
+The release will be followed by the announcement on my **[LinkedIn page](https://www.linkedin.com/in/lala-hakobyan)**.
 
 To see the detailed release schedule and future updates, check the **[Project Roadmap](./ROADMAP.md)**.
 
