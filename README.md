@@ -80,9 +80,9 @@ The following specific personal projects in my GitHub profile were used to valid
 
 Make sure to check the `debugging-handbook-demo-v1` branch to see the exact code and configurations described in the guide.
 
-- **[Next.js Note POC App (Zustand)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/note-app-nextjs)**
-- **[React Vite Todo POC App (Redux)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/todo-app-vite)**
-- **[Angular SSR Shop POC App (Signals)](https://github.com/lala-hakobyan/angular-poc/tree/debugging-handbook-demo-v1/apps/shop-app-ng)**
+- **[Next.js Note POC App (Zustand Store)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/note-app-nextjs)**
+- **[React Vite Todo POC App (Redux Store)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/todo-app-vite)**
+- **[Angular SSR Shop POC App (Custom Signal Store)](https://github.com/lala-hakobyan/angular-poc/tree/debugging-handbook-demo-v1/apps/shop-app-ng)**
 
 ## About Me
 
