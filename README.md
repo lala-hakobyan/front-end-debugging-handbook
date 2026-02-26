@@ -2,9 +2,11 @@
 
 A comprehensive guide to **debugging tools** for modern, complex front-end applications. This handbook provides practical, real-world guidance on a complete suite of tools, from **Chrome DevTools** and **framework extensions** to **integrated IDE debuggers**.
 
-**Get the latest **Community Edition** (v0.1.1) of the handbook [here](/releases/Front-end-Debugging-Tools-Handbook-v0.1.1-community-2026-by-Lala-Hakobyan.pdf).**
+Get the latest version of the handbook for **free**:
+- **Community Edition (v0.1.2)**: [GitHub Direct Download](/releases/Front-end-Debugging-Tools-Handbook-v0.1.2-community-2026-by-Lala-Hakobyan.pdf)
+- **Main Edition (v1.0.0)**: [Leanpub Book Reference](https://leanpub.com/front-end-debugging-tools-handbook)
 
-[<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.1-community-2026-by-Lala-Hakobyan.pdf)
+[<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.2-community-2026-by-Lala-Hakobyan.pdf)
 
 ## Introduction
 
@@ -68,8 +70,19 @@ While this handbook is intended to give you advanced knowledge of front-end debu
 
 However, the topics are independent and necessary sections are referenced whenever needed. So if you are busy, you can start by checking the **Summary** section to find which tool solves your specific problem, and pick the tools that you need at the moment or are interested in diving deeper into. You can also check the **[Table of Contents](./TABLE-OF-CONTENTS.md)**, which is detailed enough to give you an overview of what is included in the handbook and help you choose the sections you are interested in.
 
+This is not only a handbook but a **complete learning suite**. I've included **[3 POC projects](#poc-projects)** on my GitHub profile so you can validate concepts locally while you read, making the learning process deeper and more effective.
+
 Happy reading! I hope you will enjoy it.
 
+## POC Projects
+
+The following specific personal projects in my GitHub profile were used to validate debugging techniques in this handbook and to capture screenshots. You can use them to access the full source code behind the code blocks, review configurations and debug specific features.
+
+Make sure to check the `debugging-handbook-demo-v1` branch to see the exact code and configurations described in the guide.
+
+- **[Next.js Note POC App (Zustand)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/note-app-nextjs)**
+- **[React Vite Todo POC App (Redux)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/todo-app-vite)**
+- **[Angular SSR Shop POC App (Signals)](https://github.com/lala-hakobyan/angular-poc/tree/debugging-handbook-demo-v1/apps/shop-app-ng)**
 
 ## About Me
 
@@ -86,7 +99,9 @@ If you found this handbook valuable, consider **starring the GitHub repository**
 
 **I'd love to hear from you. For feedback, questions, updates or just to connect over meaningful tech conversations, you can find me on Linkedin:** **[linkedin.com/in/lala-hakobyan](https://www.linkedin.com/in/lala-hakobyan)**
 
-> **Important Note:** The Community Edition is the FREE version of the handbook for the developer community. If you see it for sale on any platform, please inform me via LinkedIn so that I can prevent its illegal usage.
+> **Important Note**: This copy is the **FREE** version of the handbook for the developer community. Attribution is appreciated if you want to support the work.
+> - Check the official repository for a list of [platforms](#official-sources) where the handbook is officially published.
+> - If you see this handbook for sale on any platform, please inform me via LinkedIn so I can prevent its unauthorized distribution.
 
 
 ## Story
@@ -106,26 +121,23 @@ Over the last few months, I continuously improved the handbook. I added the Chro
 I really hope you will enjoy it. I will be happy to hear your [feedback](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues) and consider it for future updates.
 
 
+## Available Editions
+There are two available editions. Both deliver a highly polished, comprehensive guide to front-end debugging.
+- **[Community Edition (v0.1.2)](/releases/Front-end-Debugging-Tools-Handbook-v0.1.2-community-2026-by-Lala-Hakobyan.pdf)**: The complete learning resource. It is available on GitHub for direct download and will always remain **free**. Necessary maintenance updates will be published there.
+- **[Main Edition (v1.0.0)](https://leanpub.com/front-end-debugging-tools-handbook)**: Available exclusively on Leanpub. It builds on the Community Edition with targeted developer experience improvements:
+    - **Print-friendly Navigation:** Page numbers included in the Table of Contents.
+    - **Console-ready Snippets:**  An enhanced Console section with ready-to-use code blocks for local experimentation.
+    - **Shared IDE Configurations:** An enhanced **Debugging in WebStorm** section with instructions to how save configuration for better team maintainability.
+    - **Direct Project Links:** Embedded links to the specific technical POC GitHub projects for each section.
+
+  Right now, I am offering the Main Edition for **free** to the community as an early-access benefit with an optional pay-as-you-wish strategy for people who want to support the work. I will do my best to keep this version free as long as possible. However, as I add new deep dives and advanced sections to this edition, it may transition to a paid version. You can review the [Table of Contents](./toc-history/main/v1.0.0-TABLE-OF-CONTENTS.md) for more information and consider downloading your free copy today.
+
+
 ## Releases
 To check all release notes, please refer to the **[Release Notes](./RELEASE-NOTES.md)** file.
 
 
 ## Roadmap
-
-**Release Version: 1.0.0**
-- **Description:** Official release of the handbook **Main Edition**.
-- **Release Date:** Feb 18 - Feb 25, 2026
-- **What is Included:**
-    - Minor content refinements.
-    - Enhanced **Console Section** with text blocks to copy-paste and experiment.
-    - Added **Debugging in WebStorm > Save Configuration** section, explaining how to store configurations as physical files for better maintainability.
-    - Release of the **GitHub projects** used in the handbook to enhance the learning process.
-      These POC projects allow readers to apply concepts directly in a local environment, resulting in a more effective learning flow.
-    - Links to technical POC projects for each section.
-    - Page numbers included in the Table of Contents to ensure the handbook is efficient when printed.
-  
-The release will be followed by the announcement on my **[LinkedIn page](https://www.linkedin.com/in/lala-hakobyan)**.
-
 To see the detailed release schedule and future updates, check the **[Project Roadmap](./ROADMAP.md)**.
 
 
@@ -134,8 +146,10 @@ For suggestions, feedback or to request a topic, please use the **[Issues page o
 
 
 ## Official Sources
-- [GitHub Repository](https://github.com/lala-hakobyan/front-end-debugging-handbook)
-- Leanpub - Coming Soon (Feb 18 - Feb 25, 2026)
+- [GitHub Repository](https://github.com/lala-hakobyan/front-end-debugging-handbook):
+  Hosts the free **Community Edition**, project story, releases, roadmap, issues and discussions. This is the official source of the handbook.
+- [Leanpub Book Reference](https://leanpub.com/front-end-debugging-tools-handbook):
+  Hosts the free **Main Edition** of the handbook.
 
 
 ## License

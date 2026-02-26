@@ -1,4 +1,4 @@
-# Table of Contents: Version 0.1.1 (Community Edition)
+# Table of Contents: Version 0.1.2 (Community Edition)
 
 Below is the full table of contents of the handbook:
 
