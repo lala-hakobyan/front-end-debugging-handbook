@@ -45,6 +45,8 @@
       These POC projects allow readers to apply concepts directly in a local environment, resulting in a more effective learning flow.
     - Links to technical POC projects for each section.
     - Page numbers included in the Table of Contents to ensure the handbook is efficient when printed.
+      Please refer to the [Table of Contents](https://github.com/lala-hakobyan/front-end-debugging-handbook/blob/main/toc-history/main/v1.0.0-TABLE-OF-CONTENTS.md) for a detailed list of topics included in this version.
+
 - **References**:
     - [Leanpub reference](https://leanpub.com/front-end-debugging-tools-handbook)
 - **Release Page:** [v1.0.0 - Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook/releases/tag/v1.0.0)
