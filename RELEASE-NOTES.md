@@ -3,11 +3,11 @@
 ## Release Version: 1.0.1
 
 - **Description**: Updated Speculative Loading status and added Core Web Vitals insights
-- **Release Date**: 11-03-2026
+- **Release Date**: 12-03-2026
 - **What is Included**:
   Updates based on feedback and insights from Barry Pollard (Chrome team):
     - Fixed [Application Panel > Speculative Loading is not an Experimental Technology](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues/5) issue.
-    - Added small insights in **Performance Panel: Key Features and Workflow** section, **Review Core Web Vitals** block.
+    - Added small insights in **Performance Panel: Key Features and Workflow** section > **Review Core Web Vitals** block.
   
     Please refer to the [Table of Contents](https://github.com/lala-hakobyan/front-end-debugging-handbook/blob/main/toc-history/main/v1.0.1-TABLE-OF-CONTENTS.md) for a detailed list of topics included in this version.
 - **References**:
@@ -18,11 +18,11 @@
 ## Release Version: 0.1.3 (Community Edition)
 
 - **Description**: Updated Speculative Loading status and added Core Web Vitals insights
-- **Release Date**: 11-03-2026
+- **Release Date**: 12-03-2026
 - **What is Included**:
   Updates based on feedback and insights from Barry Pollard (Chrome team):
     - Fixed [Application Panel > Speculative Loading is not an Experimental Technology](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues/5) issue.
-    - Added small insights in **Performance Panel: Key Features and Workflow** section, **Review Core Web Vitals** block.
+    - Added small insights in **Performance Panel: Key Features and Workflow** section > **Review Core Web Vitals** block.
     
     Please refer to the [Table of Contents](https://github.com/lala-hakobyan/front-end-debugging-handbook/blob/main/TABLE-OF-CONTENTS.md) for a detailed list of topics included in this version.
 - **References**:
