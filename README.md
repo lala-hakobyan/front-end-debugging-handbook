@@ -3,8 +3,8 @@
 A comprehensive guide to **debugging tools** for modern, complex front-end applications. This handbook provides practical, real-world guidance on a complete suite of tools, from **Chrome DevTools** and **framework extensions** to **integrated IDE debuggers**.
 
 Get the latest version of the handbook for **free**:
-- **Community Edition (v0.1.2)**: [GitHub Direct Download](/releases/Front-end-Debugging-Tools-Handbook-v0.1.2-community-2026-by-Lala-Hakobyan.pdf)
-- **Main Edition (v1.0.0)**: [Leanpub Book Reference](https://leanpub.com/front-end-debugging-tools-handbook)
+- **Community Edition (v0.1.3)**: [GitHub Direct Download](/releases/Front-end-Debugging-Tools-Handbook-v0.1.3-community-2026-by-Lala-Hakobyan.pdf)
+- **Main Edition (v1.0.1)**: [Leanpub Book Reference](https://leanpub.com/front-end-debugging-tools-handbook)
 
 [<img src="./assets/front-end-debugging-tools-cover.png" alt="Front-end Debugging Handbook" class="cover-image" />](/releases/Front-end-Debugging-Tools-Handbook-v0.1.2-community-2026-by-Lala-Hakobyan.pdf)
 
@@ -123,14 +123,31 @@ I really hope you will enjoy it. I will be happy to hear your [feedback](https:/
 
 ## Available Editions
 There are two available editions. Both deliver a highly polished, comprehensive guide to front-end debugging.
-- **[Community Edition (v0.1.2)](/releases/Front-end-Debugging-Tools-Handbook-v0.1.2-community-2026-by-Lala-Hakobyan.pdf)**: The complete learning resource. It is available on GitHub for direct download and will always remain **free**. Necessary maintenance updates will be published there.
-- **[Main Edition (v1.0.0)](https://leanpub.com/front-end-debugging-tools-handbook)**: Available exclusively on Leanpub. It builds on the Community Edition with targeted developer experience improvements:
+- **[Community Edition (v0.1.3)](/releases/Front-end-Debugging-Tools-Handbook-v0.1.3-community-2026-by-Lala-Hakobyan.pdf)**: The complete learning resource. It is available on GitHub for direct download and will always remain **free**. Necessary maintenance updates will be published there.
+- **[Main Edition (v1.0.1)](https://leanpub.com/front-end-debugging-tools-handbook)**: Available exclusively on Leanpub. It builds on the Community Edition with targeted developer experience improvements:
     - **Print-friendly Navigation:** Page numbers included in the Table of Contents.
     - **Console-ready Snippets:**  An enhanced Console section with ready-to-use code blocks for local experimentation.
     - **Shared IDE Configurations:** An enhanced **Debugging in WebStorm** section with instructions to how save configuration for better team maintainability.
     - **Direct Project Links:** Embedded links to the specific technical POC GitHub projects for each section.
 
   Right now, I am offering the Main Edition for **free** to the community as an early-access benefit with an optional pay-as-you-wish strategy for people who want to support the work. I will do my best to keep this version free as long as possible. However, as I add new deep dives and advanced sections to this edition, it may transition to a paid version. You can review the [Table of Contents](./toc-history/main/v1.0.0-TABLE-OF-CONTENTS.md) for more information and consider downloading your free copy today.
+
+
+## Peer Reviews and Expert Feedback
+
+> "**This looks great! I've often been asked for a user guide to Chrome DevTools, and although we work hard on our docs, a book like this is a great idea to bring it all together. Great job!**"
+>
+> ***Barry Pollard**, Web Performance Developer Advocate on Google Chrome*
+
+
+> "**I learned a lot reading this Handbook, great work Lala Hakobyan!**"
+>
+> ***Gérôme Grignon**, Front-end Software Engineer at Lucca, Creator of **Angular Can I Use** and Founder of **Angular Devs France***
+
+
+> "**This is a fantastic initiative. It’s extremely useful and very well structured — the information is easy to search and digest. You’ve clearly put real thought into both the design and the structure. Great job.**"
+>
+> ***Nune Poghosyan**, Senior QA Automation Engineer at ServiceTitan*
 
 
 ## Releases
@@ -141,8 +158,15 @@ To check all release notes, please refer to the **[Release Notes](./RELEASE-NOTE
 To see the detailed release schedule and future updates, check the **[Project Roadmap](./ROADMAP.md)**.
 
 
-## Feedback and Requests
-For suggestions, feedback or to request a topic, please use the **[Issues page on GitHub](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues)**.
+## Feedback, Requests and Discussions
+
+- Report typos, bugs or broken links via the **[Issues page on GitHub](https://github.com/lala-hakobyan/front-end-debugging-handbook/issues)**.  
+- Join the conversation or start a new one in the **[Discussions page](https://github.com/lala-hakobyan/front-end-debugging-handbook/discussions)**:
+    - **Feedback and Suggestions**: Provide general feedback, suggest new topics and share ideas to help improve the project and keep it up to date.  
+    - **Q&A**: Ask technical questions about the handbook topics such as front-end debugging tools, underlying concepts, optimization or monitoring. Everyone is welcome to participate and answer questions, but please keep discussions focused on these areas. If a question is specifically for the author, please mention `@lala-hakobyan` directly.  
+    - **Debugging Stories**: Share your own front-end debugging experiences, explain how you used the handbook to solve specific issues or learn from how others solved real problems.  
+
+> **Important Note**: Please check the **[CONTRIBUTING](./CONTRIBUTING.md)** guidelines before starting or engaging in a conversation. Let's respect each other's efforts and time to make this a safe place to collaborate, discuss and learn.
 
 
 ## Official Sources
@@ -151,6 +175,15 @@ For suggestions, feedback or to request a topic, please use the **[Issues page o
 - [Leanpub Book Reference](https://leanpub.com/front-end-debugging-tools-handbook):
   Hosts the free **Main Edition** of the handbook.
 
+
+## Community and Support
+A sincere **THANK YOU** to the community for the kind support and genuine engagement following the release of the **Front-end Debugging Tools Handbook**.   
+Thank you for supporting, reading, sharing, starring the repository, and providing such valuable feedback!
+
+Seeing real interest and usage of the handbook is the most rewarding outcome for all the effort and care I put into this project!
+
+<img src="./assets/front-end-debugging-tools-community-support.png" alt="Front-end Debugging Handbook: Community and Support" class="cover-image" />
+  
 
 ## License
 

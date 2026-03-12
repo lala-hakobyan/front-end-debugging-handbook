@@ -1,4 +1,4 @@
-# Table of Contents: Version 0.1.2 (Community Edition)
+# Table of Contents: Version 0.1.3 (Community Edition)
 
 Below is the full table of contents of the handbook:
 
@@ -50,7 +50,7 @@ Below is the full table of contents of the handbook:
         - Storage Section
         - Background Services Section
         - Back/Forward Cache
-        - Speculative Loading (Experimental)
+        - Speculative Loading
         - Push Messaging and Notifications
         - Common Use Cases
     - **1.8 Sources Panel**
