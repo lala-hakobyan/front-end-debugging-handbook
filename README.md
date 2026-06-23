@@ -70,19 +70,19 @@ While this handbook is intended to give you advanced knowledge of front-end debu
 
 However, the topics are independent and necessary sections are referenced whenever needed. So if you are busy, you can start by checking the **Summary** section to find which tool solves your specific problem, and pick the tools that you need at the moment or are interested in diving deeper into. You can also check the **[Table of Contents](./TABLE-OF-CONTENTS.md)**, which is detailed enough to give you an overview of what is included in the handbook and help you choose the sections you are interested in.
 
-This is not only a handbook but a **complete learning suite**. I've included **[3 POC projects](#poc-projects)** on my GitHub profile so you can validate concepts locally while you read, making the learning process deeper and more effective.
+This is not only a handbook but a **complete learning suite**. I've included **[3 supporting projects](#supporting-projects)** on my GitHub profile so you can validate concepts locally while you read, making the learning process deeper and more effective.
 
 Happy reading! I hope you will enjoy it.
 
-## POC Projects
+## Supporting Projects
 
-The following specific personal projects in my GitHub profile were used to validate debugging techniques in this handbook and to capture screenshots. You can use them to access the full source code behind the code blocks, review configurations and debug specific features.
+The following reference applications in my GitHub profile were used to validate debugging techniques in this handbook and to capture screenshots. You can use them to access the full source code behind the code blocks, review configurations and debug specific features.
 
 Make sure to check the `debugging-handbook-demo-v1` branch to see the exact code and configurations described in the guide.
 
-- **[Next.js Note POC App (Zustand Store)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/note-app-nextjs)**
-- **[React Vite Todo POC App (Redux Store)](https://github.com/lala-hakobyan/react-poc/tree/debugging-handbook-demo-v1/apps/todo-app-vite)**
-- **[Angular SSR Shop POC App (Custom Signal Store)](https://github.com/lala-hakobyan/angular-poc/tree/debugging-handbook-demo-v1/apps/shop-app-ng)**
+- **[Next.js Note App (Zustand Store)](https://github.com/lala-hakobyan/react-architecture/tree/debugging-handbook-demo-v1/apps/note-app-nextjs)**
+- **[React Vite Todo App (Redux Store)](https://github.com/lala-hakobyan/react-architecture/tree/debugging-handbook-demo-v1/apps/todo-app-vite)**
+- **[Angular SSR Shop App (Custom Signal Store)](https://github.com/lala-hakobyan/angular-architecture/tree/debugging-handbook-demo-v1/apps/shop-app-ng)**
 
 ## About Me
 
